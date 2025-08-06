@@ -1,5 +1,3 @@
-package baivehicle;
-
 public abstract class Vehicle {
     protected String brand;
     protected String model;
