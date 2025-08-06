@@ -1,5 +1,3 @@
-package baivehicle;
-
 import java.util.Calendar;
 
 public class Car extends Vehicle{
